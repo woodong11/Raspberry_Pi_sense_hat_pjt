@@ -1,6 +1,7 @@
 # Raspberry_Pi_sensehat_pjt
 라즈베리파이와 센스햇을 활용한 미니 프로젝트입니다. (자이로센서 + bfs를 활용한 미로탈출게임)
 
+[![Video Label](http://img.youtube.com/vi/Q_8mUl34uPM/0.jpg)](https://youtu.be/Q_8mUl34uPM)
 
 ## ready to sense hat
 <h3>센스햇 설치 과정</h3> <br>
